@@ -1,0 +1,43 @@
+1.	Networking and Content Delivery
+ 	Virtual Private Cloud (VPC)
+ 	AWS Direct Connect
+ 	Amazon CloudFront
+ 	Route 53
+2.	Storage
+ 	Simple Storage Service (S3)
+ 	Glacier
+3.	Identity
+ 	Identity Access and Management
+ 	AWS Security Token Service
+4.	Compute
+ 	Elastic Compute Cloud (EC2)
+ 	Elastic Load Balancer
+ 	EC2 Container Service
+ 	Amazon Elastic Beanstalk
+ 	Lambda
+5.	Database
+ 	RDS
+ 	Amazon Dynamo DB
+ 	Amazon Elastic Cache
+ 	RedShift 
+6.	Messaging
+ 	Simple Notification Service (SNS)
+ 	Simple Queue Service (SQS)
+7.	Management Tools
+ 	Cloud Watch
+ 	Amazon CloudFormation
+ 	AWS Cloud Trail
+ 	Billing
+8.	Developer Tools
+ 	AWS Code Commit
+ 	AWS CodeDeploy
+ 	AWS CodePipleline
+9.	Analytics
+ 	AWS Kinesis
+ 	Amazon EMR ( Elastic Map Reduce)
+ 	Amazon CloudSearch
+10.	Application Services
+ 	Amazon SWF ( Simple Workflow Service)
+ 	Elastic Transcoder
+11.	SysOps
+12.	DevOps
